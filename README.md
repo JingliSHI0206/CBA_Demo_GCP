@@ -9,3 +9,17 @@ A fine-tune BERT model for sentiment analysis.
 ```
 GCP --> Vertex AI
 ```
+
+2. Open JupyterLab and Clone Repository
+
+```
+GCP --> Vertex AI
+```
+
+3. Run Demo
+
+
+4. Clean Up
+
+
+
